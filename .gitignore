@@ -1,3 +1,5 @@
+**/m5out*
+
 MODULE.bazel.lock
 bazel-*
 build
